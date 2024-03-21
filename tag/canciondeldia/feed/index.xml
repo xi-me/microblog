@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#CancionDelDia &#8211; Musicology</title>
+	<atom:link href="https://xi-me.github.io/microblog/tag/canciondeldia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xi-me.github.io/microblog</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Mar 2024 06:22:53 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://xi-me.github.io/microblog/wp-content/uploads/2024/03/cropped-282120-32x32.png</url>
+	<title>#CancionDelDia &#8211; Musicology</title>
+	<link>https://xi-me.github.io/microblog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Canción del día</title>
+		<link>https://xi-me.github.io/microblog/2024/03/21/hola-mundo/</link>
+		
+		<dc:creator><![CDATA[ximena]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2024 05:23:41 +0000</pubDate>
+				<category><![CDATA[Canción]]></category>
+		<category><![CDATA[Recomendación]]></category>
+		<category><![CDATA[#CancionDelDia]]></category>
+		<category><![CDATA[#Music]]></category>
+		<category><![CDATA[#Recs]]></category>
+		<category><![CDATA[#Spotify]]></category>
+		<guid isPermaLink="false">https://xi-me.github.io/microblog/?p=1</guid>
+
+					<description><![CDATA[El día de hoy les recomiendo esta canción de Lou Val, llamada «Eternal Sunshine». Algunos detalles:&#8211; Fecha de lanzamiento: 2021&#8211; Géneros: Nigerian R&#38;B, Afropop, UK R&#38;B]]></description>
+										<content:encoded><![CDATA[
+<p>El día de hoy les recomiendo esta canción de Lou Val, llamada «Eternal Sunshine». <br><br>Algunos detalles:<br>&#8211; Fecha de lanzamiento: 2021<br>&#8211; Géneros: Nigerian R&amp;B, Afropop, UK R&amp;B</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" src="https://i1.sndcdn.com/artworks-bxZuvFQFWXm0qOtb-1j3zxQ-t500x500.jpg" alt=""/></figure></div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

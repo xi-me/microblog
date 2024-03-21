@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#sad &#8211; Musicology</title>
+	<atom:link href="https://xi-me.github.io/microblog/tag/sad/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xi-me.github.io/microblog</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Mar 2024 06:37:05 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://xi-me.github.io/microblog/wp-content/uploads/2024/03/cropped-282120-32x32.png</url>
+	<title>#sad &#8211; Musicology</title>
+	<link>https://xi-me.github.io/microblog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Canción que calma el alma</title>
+		<link>https://xi-me.github.io/microblog/2024/03/21/cancion-que-calma-el-alma/</link>
+		
+		<dc:creator><![CDATA[ximena]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2024 06:36:40 +0000</pubDate>
+				<category><![CDATA[Canción]]></category>
+		<category><![CDATA[Recomendación]]></category>
+		<category><![CDATA[#Calm]]></category>
+		<category><![CDATA[#indie]]></category>
+		<category><![CDATA[#Music]]></category>
+		<category><![CDATA[#Recs]]></category>
+		<category><![CDATA[#sad]]></category>
+		<category><![CDATA[#Spotify]]></category>
+		<guid isPermaLink="false">https://xi-me.github.io/microblog/?p=23</guid>
+
+					<description><![CDATA[Hay muchas canciones y todas nos generan distintos sentimientos, hoy te recomiendo esta canción, que además de tranquilidad provoca tristeza, de The Japanese House: i saw you in a dream Algunos datos:&#8211; Fecha de lanzamiento: 2019&#8211; Género: Alternativa, Independiente]]></description>
+										<content:encoded><![CDATA[
+<p>Hay muchas canciones y todas nos generan distintos sentimientos, hoy te recomiendo esta canción, que además de tranquilidad provoca tristeza, de The Japanese House: i saw you in a dream</p>
+
+
+
+<p>Algunos datos:<br>&#8211; Fecha de lanzamiento: 2019<br>&#8211; Género: Alternativa, Independiente</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="i saw you in a dream" width="530" height="398" src="https://www.youtube.com/embed/ntmp3lHMPgo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

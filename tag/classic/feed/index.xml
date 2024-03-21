@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#classic &#8211; Musicology</title>
+	<atom:link href="https://xi-me.github.io/microblog/tag/classic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xi-me.github.io/microblog</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Mar 2024 06:45:43 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://xi-me.github.io/microblog/wp-content/uploads/2024/03/cropped-282120-32x32.png</url>
+	<title>#classic &#8211; Musicology</title>
+	<link>https://xi-me.github.io/microblog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Representación de la música en un álbum</title>
+		<link>https://xi-me.github.io/microblog/2024/03/21/representacion-de-la-musica-en-un-album/</link>
+		
+		<dc:creator><![CDATA[ximena]]></dc:creator>
+		<pubDate>Thu, 21 Mar 2024 06:45:41 +0000</pubDate>
+				<category><![CDATA[Canción]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Recomendación]]></category>
+		<category><![CDATA[#classic]]></category>
+		<category><![CDATA[#Music]]></category>
+		<category><![CDATA[#Recs]]></category>
+		<category><![CDATA[#Spotify]]></category>
+		<guid isPermaLink="false">https://xi-me.github.io/microblog/?p=25</guid>
+
+					<description><![CDATA[Si hay un álbum que diría que representa completamente lo que la música significa, le daría ese mérito a «Songs In The Key Of Life» de Stevie Wonder. Este trabajo de Wonder tiene 21 canciones divididas en dos discos y <a class="more-link" href="https://xi-me.github.io/microblog/2024/03/21/representacion-de-la-musica-en-un-album/">Seguir leyendo <span class="screen-reader-text">  Representación de la música en un álbum</span><span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Si hay un álbum que diría que representa completamente lo que la música significa, le daría ese mérito a «Songs In The Key Of Life» de Stevie Wonder. <br><br>Este trabajo de Wonder tiene 21 canciones divididas en dos discos y un EP con cuatro canciones. Dos de esas canciones (<em>Sir Duke</em> y <em>I Wish</em>) alcanzaron el número uno como sencillos y otra más entró en la lista de títulos memorables de Wonder: <em>Isn&#8217;t She Lovely?</em>, canción de más de seis minutos que Wonder se negó a editar en su salida a sencillo y que está dedicada al nacimiento de su hija.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Spotify Embed: Songs In The Key Of Life" style="border-radius: 12px" width="100%" height="352" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/album/6YUCc2RiXcEKS9ibuZxjt0?si=O-cU0xWNRxWzs78CX7fBWg&#038;utm_source=oembed"></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
